@@ -11,9 +11,10 @@ namespace ElsoProgram
     static void Main(string[] args)
     {
       // változó bevezetése
+      // String nev = "Nagy János"
       // típus -> String
-      // neve -> mondat
-      // tartalma -> "Hello world!"
+      // neve -> nev
+      // tartalma -> "Nagy János" (kezdő érték megadása nem kötelező)
       String nev; // név tárolására
 
       Console.Write("Írd be a neved: ");
